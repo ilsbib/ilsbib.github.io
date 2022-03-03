@@ -1,7 +1,7 @@
 # PAES
 
 ## Temario/guia estudio
-[ORGANIZACION ESTUDIO MATEMATICA]()
+[ORGANIZACION ESTUDIO MATEMATICA](https://ilsbib.github.io/PAES/MATEMATICA)
 
 ## Bibliotecas
 [TUTORÍAS PDV2019 (Todas las asignaturas)](https://drive.google.com/drive/u/0/folders/1EsuTG9AILbcwomaXZilikmcKQQKm0qxi)
